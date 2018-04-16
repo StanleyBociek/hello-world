@@ -1,9 +1,8 @@
 # hello-world
 Szanowne Panie, Szanowni Panowie
 
-Pisze do Was pracownik firmy Softman S.A., k√≥remu powierzono zadanie wdro≈ºenia wesjonowania kodu ≈∫r√≥d≈Çowego
-systemu SODIR za pomocƒÖ DVCS "Git". Przeczyta≈Çem i przetestowa≈Çem zalecenia z paru ksiƒÖ≈ºek, a niniejsze zapiski 
-to pr√≥ba testowania GitHuba jako serwera wesjonowania.
+Pisze do Was pracownik firmy Softman S.A., ktÛremu powierzono zadanie wdroøenia wersjonowania kodu,
+systemu SODIR za pomocπ DVCS "Git". Przeczyta≥em i przetestowa≥em zalecenia z paru ksiπøek, a niniejsze zapiski to prÛba testowania GitHuba jako zdalnego serwera wersjonowania.
 Dzisiaj jest 12.05.2016r.
 Naracho
 SB
